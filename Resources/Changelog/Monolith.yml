@@ -2563,3 +2563,81 @@ Entries:
       message: Nerfed deimplant fail damage to 5 genetic instead of 50.
   id: 301
   time: '2025-05-20T21:35:12.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Missiles will actually not target your own grid now.
+  id: 302
+  time: '2025-05-21T03:08:54.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Removed excessively large Frontier biomass requirements for various
+        things.
+    - type: Tweak
+      message: Ported Goob Cloning changes. Cloning alive people is now a thing.
+    - type: Tweak
+      message: Resomi Light
+    - type: Tweak
+      message: Resomi Chicken
+    - type: Tweak
+      message: Brains now display if they are soulless, ported from Goob.
+    - type: Fix
+      message: 'You can grind monkies and kobolds now in the reclaimer. '
+  id: 303
+  time: '2025-05-21T05:20:06.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Cyborgs can now do surgery (finally).
+  id: 304
+  time: '2025-05-21T05:21:38.0000000+00:00'
+- author: Ark
+  changes:
+    - type: Fix
+      message: Organ transplants should now heal damage.
+  id: 305
+  time: '2025-05-21T05:42:30.0000000+00:00'
+- author: starch70
+  changes:
+    - type: Add
+      message: USSP capital real. Tunguska is here.
+  id: 306
+  time: '2025-05-21T11:35:57.0000000+00:00'
+- author: DisguisedBear
+  changes:
+    - type: Add
+      message: 'Added new autocannon: Dravon'
+    - type: Add
+      message: 'Added new EMP cannon: Tarnyx'
+    - type: Add
+      message: 'Added new rapid-fire missile launcher: Vespera'
+    - type: Add
+      message: 'Added new hybrid EMP/HE missile launcher: Tovek'
+    - type: Tweak
+      message: Slightly buffed Dymere projectile explosion
+  id: 307
+  time: '2025-05-21T18:33:10.0000000+00:00'
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: AURORA Exosuit made a bit less durable.
+  id: 308
+  time: '2025-05-21T18:35:12.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added gambling$$$!!
+    - type: Add
+      message: Added new Rogue items in their uplink.
+    - type: Tweak
+      message: Rogue uplink prices and numbers of item received.
+  id: 309
+  time: '2025-05-21T18:38:50.0000000+00:00'
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: Tweaked the damage numbers on TOVEK and Dravon
+  id: 310
+  time: '2025-05-21T19:01:52.0000000+00:00'
